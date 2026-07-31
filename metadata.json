@@ -1,0 +1,6 @@
+{
+  "name": "DS Complexity & Visualizer",
+  "description": "An interactive Data Structure comparator, step-by-step visualizer, Big-O complexity analyzer, and CS learning tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
